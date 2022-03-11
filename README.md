@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/taofeek-ob/](https://github.com/taofeek-ob/)
 
-- 📝 I regularly write articles on [https://taofeek.hashnode.dev/](https://taofeek.hashnode.dev/)
+- 📝 I regularly write articles on [https://taofeek.hashnode.dev/](https://taofeek.hashnode.dev/) and [https://taofeek.medium.com/](https://taofeek.medium.com/)
 
 - 💬 Ask me about **react, javascript, css3**
 
