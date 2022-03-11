@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taofeek Bakare</h1>
-<h3 align="center">A passionate frontend coder, web3 developer, and full-time medical student, from Nigeria.</h3>
+<h3 align="center">A passionate frontend coder, web3 developer, and full-time medical student from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taofeek-ob&label=Profile%20views&color=0e75b6&style=flat" alt="taofeek-ob" /> </p>
 
