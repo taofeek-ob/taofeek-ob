@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taofeek Bakare</h1>
-<h3 align="center">A passionate frontend coder, web3 developer, and full-time medical student from Nigeria.</h3>
+<h3 align="center">A passionate frontend and web3 developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taofeek-ob&label=Profile%20views&color=0e75b6&style=flat" alt="taofeek-ob" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working **on a blockchain based book recommendation Dapp**
 
-- 🌱 I’m currently learning **Web3 and Smart Contracts on The Ethereum Blockchain**
+- 🌱 I’m currently learning **Zero-knowledge protocl and circuit**
 
-- 🤝 I’m looking for help with **JavaScript, React, Solidity, and Node.js**
+- 🤝 I’m looking for help with **Rust, Vyper, and ThreeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/taofeek-ob/](https://github.com/taofeek-ob/)
 
 - 📝 I regularly write articles on [https://taofeek.hashnode.dev/](https://taofeek.hashnode.dev/) and [https://taofeek.medium.com/](https://taofeek.medium.com/)
 
-- 💬 Ask me about **react, javascript, css3**
+- 💬 Ask me about **react, next, solidity, etherjs, web3js, solana, javascript, css3**
 
 - 📫 How to reach me **taofeek01@gmail.com**
 
