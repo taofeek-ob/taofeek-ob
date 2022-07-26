@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/taofeek_ob" target="blank"><img src="https://img.shields.io/twitter/follow/taofeek_ob?logo=twitter&style=for-the-badge" alt="taofeek_ob" /></a> </p>
 
-- 🔭 I’m currently working **on a blockchain based book recommendation Dapp**
+- 🔭 I’m currently working **sharding on the ethereum chain**
 
 - 🌱 I’m currently learning **Zero-knowledge protocl and circuit**
 
