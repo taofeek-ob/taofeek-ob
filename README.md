@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/taofeek_ob" target="blank"><img src="https://img.shields.io/twitter/follow/taofeek_ob?logo=twitter&style=for-the-badge" alt="taofeek_ob" /></a> </p>
 
-- 🔭 I’m currently working **sharding on the ethereum chain**
 
-- 🌱 I’m currently learning **Zero-knowledge protocl and circuit**
-
-- 🤝 I’m looking for help with **Rust, Vyper, and ThreeJs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/taofeek-ob/](https://github.com/taofeek-ob/)
-
-- 📝 I regularly write articles on [https://taofeek.hashnode.dev/](https://taofeek.hashnode.dev/) and [https://taofeek.medium.com/](https://taofeek.medium.com/)
 
 - 💬 Ask me about **react, next, solidity, etherjs, web3js, solana, javascript, css3**
 
