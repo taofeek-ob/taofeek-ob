@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, next, solidity, etherjs, web3js, solana, javascript, css3**
 
-- 📫 How to reach me **taofeek01@gmail.com**
+- 📫 How to reach me **taofeek01@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/taofeek-ob/](https://www.linkedin.com/in/taofeek-ob/)
 
